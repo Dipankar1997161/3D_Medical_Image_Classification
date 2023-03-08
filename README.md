@@ -20,7 +20,7 @@ Both the models are made available. Retrain it as per your requirement.
 ## Data
 Since it was an experiment, the repo used a smaller version of the Dataset consiting of only 200 samples in total. A larger dataset is available which consists of 1000 samples.
 
-## DEpendencies
+## Dependencies
 1. TensorFlow
 2. Keras
 3. Nibable (A library used for Neuro-Imaging cases)
